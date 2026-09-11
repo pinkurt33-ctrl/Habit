@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HabitFocus" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B2E28</item>
+        <item name="colorPrimaryDark">#12201C</item>
+        <item name="colorAccent">#6FA98D</item>
+        <item name="android:windowBackground">#12201C</item>
+    </style>
+</resources>

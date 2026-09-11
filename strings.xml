@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Habit Focus</string>
+    <string name="accessibility_service_description">Focus mode ke dauraan selected apps (YouTube, Chrome, MX Player, Playstore, Google) ko band rakhne ke liye. Calls aur messages hamesha allow rehte hain.</string>
+</resources>

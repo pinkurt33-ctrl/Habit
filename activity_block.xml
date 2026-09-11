@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0A120F"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🔒"
+        android:textSize="48sp"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/blockedAppText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ye app abhi lock hai"
+        android:textColor="#F4EFE4"
+        android:textSize="22sp"
+        android:gravity="center"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/remainingTimeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="#7FA08F"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/backHomeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Theek hai"
+        android:backgroundTint="#6FA98D"
+        android:textColor="#0F1C17" />
+
+</LinearLayout>
